@@ -12,3 +12,5 @@ for row in train:
     data.append(row)
 data = np.array(data)
 print(data)
+
+print ("test git")
